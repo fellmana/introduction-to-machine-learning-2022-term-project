@@ -1,1 +1,1 @@
-# introduction-to-machine-learning-2022-term-project
+# introduction to machine learning 2022 term project
